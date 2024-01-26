@@ -1,0 +1,5 @@
+@charset "UTF-8";
+
+@media print {}
+
+@media screen and (min-windth: 600px) and (max-width: 768px) {}
