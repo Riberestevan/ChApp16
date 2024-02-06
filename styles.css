@@ -255,7 +255,7 @@ img { width: 100%; height: auto; }
 .menuicon {
 
     width: 370px;
-    height: auto;
+    height: 15vh;
     overflow: hidden;
     border-radius: 15px;
     
